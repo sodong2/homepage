@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Men's Fashion T-Shirt",
+        "price": "139.00",
+        "mainImg": "img/products/f1.jpg",
+        "images": [
+            "img/products/f2.jpg",
+            "img/products/f3.jpg",
+            "img/products/f4.jpg",
+            "img/products/f5.jpg"
+        ],
+        "description": "Stylish and comfortable men's T-shirt. Available in multiple sizes.",
+        "category": "T-shirt"
+    },
+    {
+        "id": "2",
+        "name": "Men's Fashion T-Shirt 2",
+        "price": "149.00",
+        "mainImg": "img/products/f2.jpg",
+        "images": [
+            "img/products/f3.jpg",
+            "img/products/f4.jpg",
+            "img/products/f5.jpg",
+            "img/products/f6.jpg"
+        ],
+        "description": "A sleek, modern design for men's casual wear.",
+        "category": "T-shirt"
+    }
+]
